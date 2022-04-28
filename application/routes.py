@@ -36,6 +36,7 @@ def weddings():
 def packages():
     return render_template('packages.html', title='Packages')
 
+
 @app.route('/contact', methods=['GET', 'POST'])
 def contact():
     error = ""
@@ -51,7 +52,7 @@ def contact():
         services = form.services.data
         recommend = form.recommend.data
         if len(email) == 0 or len(fullname) == 0:
-            error = "Please supply both email and fullname"
+            error = "Please supply both email and full name"
         else:
             customer = Customer(email=email, fullname=fullname, telephone=telephone)
             order = Order(project_date=project_date, customer_id=1, location=location, budget=budget, detail=detail,
@@ -61,6 +62,7 @@ def contact():
             db.session.commit()
             return 'Thank you!'
     return render_template('contact.html', title='Get In Touch', form=form, message=error)
+
 
 @app.route('/pricing')
 def pricing():
