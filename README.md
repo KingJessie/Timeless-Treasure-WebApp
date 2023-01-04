@@ -1,4 +1,4 @@
-# Timeless-Treasure-WebApp
+# **Timeless Treasure  📸**
 
 # **Project Description**
 
@@ -19,15 +19,15 @@ We have connected our contact form to a MySQL database and also rendered the dat
 
 # **ScreenShot** <br />
 
-**Service page** <br />
+## **Service Package Page** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img1.jpg)
-**Get a quote** <br />
+## **Quote Calculator** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img2.jpg)
-**Gallery page** <br />
+## **Gallery Page** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img5.jpg)
-**Home - image carousel** <br />
+## **Home Page - Image Carousel** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img3.jpg)
-**Contact page that connects to DB** <br />
+## **Contact Page - Connects to DB** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img4.jpg)
 
 # **Authors:**
@@ -37,6 +37,6 @@ We have connected our contact form to a MySQL database and also rendered the dat
 [Uzma](https://github.com/uzmaazhar786) <br />
 [Amba](https://github.com) <br />
 
-# License and Copyright 
+# **License and Copyright**
 © Timeless-Treasure
 
