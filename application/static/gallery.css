@@ -8,7 +8,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0 10px;
+
 }
 
 .image-container {
@@ -169,6 +169,27 @@ img.hover-shadow {
   position: relative;
   top: 0;
 }
+
+.p-4 p{
+    font-family: Roboto, EB Garamond, Serif;
+    font-size: 1.0em;
+    font-weight: bold;
+    }
+
+
+
+#footer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 1rem;
+  width: 100% !important!;
+  height: 70px;
+  background-color: #f4f3ee;
+  color: #8a817c;
+}
+
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
@@ -187,3 +208,5 @@ position: fixed;
 top: 0;
 width: 100%;
 }
+
+
