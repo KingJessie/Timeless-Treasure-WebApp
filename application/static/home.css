@@ -170,16 +170,28 @@ margin-top: 80px;
 }
 
 
-.footer {
+.p-4 p{
+    font-family: Roboto, EB Garamond, Serif;
+    font-size: 1.0em !important!;
+    font-weight: bold !important!;
+    }
+
+
+
+#footer {
+  position: relative;
+  display: flex;
+  justify-content: center;
   text-align: center;
+  width: 100% !important!;
+  height: 70px;
+  background-color: #f4f3ee;
+  color: #8a817c;
 }
 
 #toastimage {width: 16px;
 height: 16px}
 
-.footer {
-  text-align: center;
-}
 
 .list-inline li {
 display: inline-block;
