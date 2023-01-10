@@ -6,7 +6,7 @@ The final Sky project entailed the design of a web application that utilized fro
 My team and I developed a responsive web application for a photography service that allows users to view our services and packages, 
 use a quote calculator to receive a quote, and use a contact form to submit queries or request tailored services.
 
-We have connected our contact form to a MySQL database and also rendered the data to an HTML page for secure access.
+We have connected our contact form to a MySQL database and also rendered the data to an HTML page for easy and secure access.
 
 # **Technologies Used**
 ➖ Python 3 <br />
