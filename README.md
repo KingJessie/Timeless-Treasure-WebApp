@@ -17,7 +17,7 @@ We have connected our contact form to a MySQL database and also rendered the dat
 ➖ JavaScript <br />
 ➖ Bootstrap <br />
 
-# ** Demo & ScreenShot** <br />
+# **Demo & ScreenShot** <br />
 
 
 https://user-images.githubusercontent.com/97694194/215338138-6730673a-b7bd-4db6-a6cc-a582d700a3b7.mp4
