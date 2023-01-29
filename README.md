@@ -22,15 +22,10 @@ We have connected our contact form to a MySQL database and also rendered the dat
 
 https://user-images.githubusercontent.com/97694194/215337889-a14e1c83-40ac-495f-a204-78ec7583fad3.mp4
 
-
-## **Service Package Page** <br />
-![index.html screenshot](application/static/images/Readme_img/readme_img1.jpg)
 ## **Quote Calculator** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img2.jpg)
 ## **Gallery Page** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img5.jpg)
-## **Home Page - Image Carousel** <br />
-![index.html screenshot](application/static/images/Readme_img/readme_img3.jpg)
 ## **Contact Page - Connects to DB** <br />
 ![index.html screenshot](application/static/images/Readme_img/readme_img4.jpg)
 
